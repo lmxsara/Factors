@@ -23,7 +23,7 @@
 
 三个因子的相关系数矩阵：
 
-![image](https://github.com/user-attachments/assets/fc497faf-f88c-42c6-b2d3-1f5235bb1d00)
+![211f3f37fff4e56c800e00991b9a068](https://github.com/user-attachments/assets/298c22f0-a3b4-4591-bbc0-5b340bd5c3c2)
 
 因子IC：
 
